@@ -88,7 +88,7 @@ public class ejecucion {
                 break;
         }
         
-        
+       sc.close(); 
     }
     
 }
