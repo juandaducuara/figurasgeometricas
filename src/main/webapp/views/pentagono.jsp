@@ -26,7 +26,11 @@
                     <div class="mb-3 mt-3">
                         <label for="lado" class="form-label">Lado:</label>
                         <input type="lado" class="form-control" id="lado" placeholder="Digite uno de los lados del pentagono" name="lado">
-                    </div>                    
+                    </div>   
+                    <div class="mb-3 mt-3">
+                        <label for="apotema" class="form-label">Apotema</label>
+                        <input type="lado" class="form-control" id="apotema" placeholder="Digite el apotema del decágono" name="apotema">
+                    </div>                      
 
                     <div class="btn-group">
                         <button type="submit" class="btn btn-primary">Hallar area</button>
